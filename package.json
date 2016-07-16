@@ -1,0 +1,14 @@
+{
+    "name": "luigi",
+    "version": "0.0.1",
+    "description": "Luigi",
+    "keywords": [],
+    "author": "Shawn Jonnet <sjonnet@gmail.com>",
+    "dependencies": {
+        "juice": "0.x.x",
+        "myth": "1.x.x"
+	},
+    "engines": {
+		"node": ">= 0.10.0"
+    }
+}
