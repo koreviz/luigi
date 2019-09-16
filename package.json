@@ -5,7 +5,7 @@
     "keywords": [],
     "author": "Shawn Jonnet <sjonnet@gmail.com>",
     "dependencies": {
-        "juice": "0.x.x",
+        "juice": "5.x.x",
         "myth": "1.x.x"
 	},
     "engines": {
